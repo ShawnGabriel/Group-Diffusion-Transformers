@@ -1,1 +1,1 @@
-# Group-Diffusion-Transformers
+Reimplementation of Group Diffusion Transformers
